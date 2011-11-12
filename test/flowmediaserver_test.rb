@@ -1,8 +1,8 @@
 require 'test_helper'
 
 class FlowmediaserverTest < ActiveSupport::TestCase
-  # Replace this with your real tests.
-  test "the truth" do
-    assert true
+  #test client server api
+  test "should register user and login from android or iphone client" do 
+     
   end
 end
